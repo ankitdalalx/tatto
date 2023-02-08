@@ -1,0 +1,344 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 08 Feb 2023 15:52:49 at https://dotwork.qodeinteractive.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*/*wp-includes* +*/*wp-content* +*/*wp-json* -*/*wordfence*
+(winhttrack -qiC1%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://dotwork.qodeinteractive.com/ -O1 "C:\My Web Sites\tatto" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*/*wp-includes* +*/*wp-content* +*/*wp-json* -*/*wordfence* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:52:51	Error: 	"Not Found" (404) at link https://dotwork.qodeinteractive.com/xmlrpc.php?rsd (from https://dotwork.qodeinteractive.com/)
+15:52:51	Warning: 	Link https://dotwork.qodeinteractive.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+15:52:54	Warning: 	Found for https://dotwork.qodeinteractive.com/checkout/
+15:52:54	Warning: 	File has moved from https://dotwork.qodeinteractive.com/checkout/ to https://dotwork.qodeinteractive.com/cart/
+15:52:56	Warning: 	Moved Permanently for dotwork.qodeinteractive.com/wp-content/plugins/revslider/public/assets/assets/dummy.png
+15:52:56	Warning: 	Redirected link is identical because of 'URL Hack' option: dotwork.qodeinteractive.com/wp-content/plugins/revslider/public/assets/assets/dummy.png and https://dotwork.qodeinteractive.com/wp-content/plugins/revslider/public/assets/assets/dummy.png
+15:52:56	Warning: 	Warning moved treated for dotwork.qodeinteractive.com/wp-content/plugins/revslider/public/assets/assets/dummy.png (real one is https://dotwork.qodeinteractive.com/wp-content/plugins/revslider/public/assets/assets/dummy.png)
+15:52:56	Error: 	"Not Found" (404) at link https://dotwork.qodeinteractive.com/%22https:/dotwork.qodeinteractive.com/wp-content/uploads/2018/05/h1-parallax-mask-1.png (from https://dotwork.qodeinteractive.com/)
+15:52:56	Error: 	"Not Found" (404) at link https://dotwork.qodeinteractive.com/%22https:/dotwork.qodeinteractive.com/wp-content/uploads/2018/05/h1-parallax-mask-2.png (from https://dotwork.qodeinteractive.com/)
+15:52:58	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2545
+15:52:58	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2545 to https://dotwork.qodeinteractive.com/vertical-showcase/
+15:52:58	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/shop/
+15:52:58	Warning: 	File has moved from https://dotwork.qodeinteractive.com/shop/ to https://dotwork.qodeinteractive.com/elements/shop-list/
+15:52:58	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=412
+15:52:58	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=412 to https://dotwork.qodeinteractive.com/portfolio-home/
+15:52:58	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2800
+15:52:58	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2800 to https://dotwork.qodeinteractive.com/landing/
+15:52:58	Error: 	"Not Found" (404) at link https://dotwork.qodeinteractive.com/landing/%22https:/dotwork.qodeinteractive.com/wp-content/uploads/2018/05/landing-second-section-img-1.png (from https://dotwork.qodeinteractive.com/landing/)
+15:52:58	Error: 	"Not Found" (404) at link https://dotwork.qodeinteractive.com/landing/%22https:/dotwork.qodeinteractive.com/wp-content/uploads/2018/05/landing-third-section-img-1.png (from https://dotwork.qodeinteractive.com/landing/)
+15:52:58	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=368
+15:52:58	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=368 to https://dotwork.qodeinteractive.com/about-us/
+15:52:58	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=750
+15:52:58	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=750 to https://dotwork.qodeinteractive.com/about-me/
+15:52:59	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1027
+15:52:59	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1027 to https://dotwork.qodeinteractive.com/meet-the-crew/
+15:52:59	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1379
+15:52:59	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1379 to https://dotwork.qodeinteractive.com/gallery/
+15:52:59	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=3500
+15:52:59	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=3500 to https://dotwork.qodeinteractive.com/faq-page/
+15:52:59	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1006
+15:52:59	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1006 to https://dotwork.qodeinteractive.com/contact-us/
+15:52:59	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=377
+15:52:59	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=377 to https://dotwork.qodeinteractive.com/portfolio/standard/
+15:53:00	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=406
+15:53:00	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=406 to https://dotwork.qodeinteractive.com/portfolio/gallery/
+15:53:00	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=410
+15:53:00	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=410 to https://dotwork.qodeinteractive.com/portfolio/masonry/
+15:53:00	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=811
+15:53:00	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=811 to https://dotwork.qodeinteractive.com/portfolio/gallery/two-columns/
+15:53:00	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=819
+15:53:00	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=819 to https://dotwork.qodeinteractive.com/portfolio/gallery/three-columns/
+15:53:00	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=821
+15:53:00	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=821 to https://dotwork.qodeinteractive.com/portfolio/gallery/three-columns-wide/
+15:53:00	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=905
+15:53:00	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=905 to https://dotwork.qodeinteractive.com/portfolio/gallery/four-columns/
+15:53:00	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=916
+15:53:00	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=916 to https://dotwork.qodeinteractive.com/portfolio/gallery/four-columns-wide/
+15:53:00	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=922
+15:53:00	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=922 to https://dotwork.qodeinteractive.com/portfolio/gallery/five-columns-wide/
+15:53:00	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=317
+15:53:00	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=317 to https://dotwork.qodeinteractive.com/portfolio-item/tattoo-inspiration/
+15:53:01	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=356
+15:53:01	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=356 to https://dotwork.qodeinteractive.com/portfolio-item/tattoo-history/
+15:53:01	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=347
+15:53:01	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=347 to https://dotwork.qodeinteractive.com/portfolio-item/skin-art/
+15:53:01	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=353
+15:53:01	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=353 to https://dotwork.qodeinteractive.com/portfolio-item/full-sleeve-tattoo/
+15:53:01	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=394
+15:53:01	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=394 to https://dotwork.qodeinteractive.com/portfolio-item/bold-tattoos/
+15:53:01	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=389
+15:53:01	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=389 to https://dotwork.qodeinteractive.com/portfolio-item/tattoo-meanings/
+15:53:01	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=326
+15:53:01	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=326 to https://dotwork.qodeinteractive.com/blog/right-sidebar/
+15:53:02	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=329
+15:53:02	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=329 to https://dotwork.qodeinteractive.com/blog/left-sidebar/
+15:53:02	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=331
+15:53:02	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=331 to https://dotwork.qodeinteractive.com/blog/without-sidebar/
+15:53:02	Error: 	"Not Found" (404) at link https://dotwork.qodeinteractive.com/xmlrpc.php (from https://dotwork.qodeinteractive.com/body-modification-body-art/)
+15:53:02	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=12
+15:53:02	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=12 to https://dotwork.qodeinteractive.com/body-modification-body-art/
+15:53:02	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=38
+15:53:02	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=38 to https://dotwork.qodeinteractive.com/ink-and-dyes-art/
+15:53:03	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=41
+15:53:03	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=41 to https://dotwork.qodeinteractive.com/tattoos-culture/
+15:53:03	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=43
+15:53:03	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=43 to https://dotwork.qodeinteractive.com/skin-art-techniques/
+15:53:03	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=46
+15:53:03	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=46 to https://dotwork.qodeinteractive.com/tattoo-studios/
+15:53:03	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=69
+15:53:03	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=69 to https://dotwork.qodeinteractive.com/tradition-and-culture/
+15:53:06	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=182
+15:53:06	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=182 to https://dotwork.qodeinteractive.com/product/phone-mask-steampunk/
+15:53:07	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=345
+15:53:07	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=345 to https://dotwork.qodeinteractive.com/product-list/three-columns/
+15:53:08	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=357
+15:53:08	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=357 to https://dotwork.qodeinteractive.com/product-list/four-columns/
+15:53:09	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=359
+15:53:09	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=359 to https://dotwork.qodeinteractive.com/product-list/full-width/
+15:53:10	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1569
+15:53:10	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1569 to https://dotwork.qodeinteractive.com/my-account/
+15:53:10	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1576
+15:53:10	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1576 to https://dotwork.qodeinteractive.com/cart/
+15:53:10	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=954
+15:53:10	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=954 to https://dotwork.qodeinteractive.com/elements/accordions/
+15:53:10	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=964
+15:53:10	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=964 to https://dotwork.qodeinteractive.com/elements/tabs/
+15:53:10	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1016
+15:53:10	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1016 to https://dotwork.qodeinteractive.com/elements/buttons/
+15:53:10	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=993
+15:53:10	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=993 to https://dotwork.qodeinteractive.com/elements/clients/
+15:53:10	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1026
+15:53:10	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1026 to https://dotwork.qodeinteractive.com/elements/icon-with-text/
+15:53:10	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1068
+15:53:10	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1068 to https://dotwork.qodeinteractive.com/elements/contact-form/
+15:53:10	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1093
+15:53:10	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1093 to https://dotwork.qodeinteractive.com/elements/team/
+15:53:10	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1132
+15:53:10	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1132 to https://dotwork.qodeinteractive.com/elements/testimonials/
+15:53:10	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1102
+15:53:10	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1102 to https://dotwork.qodeinteractive.com/elements/video-button/
+15:53:10	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=3591
+15:53:10	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=3591 to https://dotwork.qodeinteractive.com/elements/single-image/
+15:53:10	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1108
+15:53:10	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1108 to https://dotwork.qodeinteractive.com/elements/portfolio-list/
+15:53:10	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1125
+15:53:10	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1125 to https://dotwork.qodeinteractive.com/elements/shop-list/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1164
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1164 to https://dotwork.qodeinteractive.com/elements/progress-bar/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1243
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1243 to https://dotwork.qodeinteractive.com/elements/counters/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=3578
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=3578 to https://dotwork.qodeinteractive.com/elements/countdown/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1256
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1256 to https://dotwork.qodeinteractive.com/elements/pie-chart/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1280
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1280 to https://dotwork.qodeinteractive.com/elements/google-maps/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1117
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1117 to https://dotwork.qodeinteractive.com/elements/blog-list/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=7
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=7 to https://dotwork.qodeinteractive.com/elements/headings/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1309
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1309 to https://dotwork.qodeinteractive.com/elements/columns/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1311
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1311 to https://dotwork.qodeinteractive.com/elements/section-title/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1003
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1003 to https://dotwork.qodeinteractive.com/elements/blockquote/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=1328
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=1328 to https://dotwork.qodeinteractive.com/elements/dropcaps-highlights/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2004
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2004 to https://dotwork.qodeinteractive.com/elements/separators/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=109
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=109 to https://dotwork.qodeinteractive.com/blog-standard/
+15:53:11	Warning: 	File not parsed, looks like binary: https://dotwork.qodeinteractive.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+15:53:11	Warning: 	File not parsed, looks like binary: https://dotwork.qodeinteractive.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=451
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=451 to https://dotwork.qodeinteractive.com/portfolio-item/aftercare/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=467
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=467 to https://dotwork.qodeinteractive.com/portfolio-item/tattoo-obsession/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=476
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=476 to https://dotwork.qodeinteractive.com/portfolio-item/ink-inspiration/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=482
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=482 to https://dotwork.qodeinteractive.com/portfolio-item/color-it-all/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=486
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=486 to https://dotwork.qodeinteractive.com/portfolio-item/ink-art/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=487
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=487 to https://dotwork.qodeinteractive.com/portfolio-item/tattoo-culture/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2402
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2402 to https://dotwork.qodeinteractive.com/portfolio-item/music-tattoos/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2403
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2403 to https://dotwork.qodeinteractive.com/portfolio-item/visionary-drawings/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2405
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2405 to https://dotwork.qodeinteractive.com/portfolio-item/striking-ink/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=529
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=529 to https://dotwork.qodeinteractive.com/portfolio-item/tattoo-convention/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=565
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=565 to https://dotwork.qodeinteractive.com/portfolio-item/body-modification/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=567
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=567 to https://dotwork.qodeinteractive.com/portfolio-item/freshly-inked/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=566
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=566 to https://dotwork.qodeinteractive.com/portfolio-item/skin-science/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=3025
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=3025 to https://dotwork.qodeinteractive.com/portfolio-item/flower-power/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=3044
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=3044 to https://dotwork.qodeinteractive.com/portfolio-item/tattoo-street-style/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=3041
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=3041 to https://dotwork.qodeinteractive.com/portfolio-item/animal-symbolism/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=3049
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=3049 to https://dotwork.qodeinteractive.com/portfolio-item/retro-style/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=3052
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=3052 to https://dotwork.qodeinteractive.com/portfolio-item/ink-credible/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=3055
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=3055 to https://dotwork.qodeinteractive.com/portfolio-item/work-in-progess/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2900
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2900 to https://dotwork.qodeinteractive.com/portfolio-item/cover-up-tattoos/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2920
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2920 to https://dotwork.qodeinteractive.com/portfolio-item/modern-tattoos/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2933
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2933 to https://dotwork.qodeinteractive.com/portfolio-item/protective-tattoo-film/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2935
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2935 to https://dotwork.qodeinteractive.com/portfolio-item/numbing-creams/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2928
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2928 to https://dotwork.qodeinteractive.com/portfolio-item/creative-canvas/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2937
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2937 to https://dotwork.qodeinteractive.com/portfolio-item/best-moisturizers/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2939
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2939 to https://dotwork.qodeinteractive.com/portfolio-item/tattoo-ritual/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2941
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2941 to https://dotwork.qodeinteractive.com/portfolio-item/tattoo-timelapse/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2946
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2946 to https://dotwork.qodeinteractive.com/portfolio-item/tattoo-shop-talk/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2948
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2948 to https://dotwork.qodeinteractive.com/portfolio-item/behind-the-curtain/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2950
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2950 to https://dotwork.qodeinteractive.com/portfolio-item/ink-dyes/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2953
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2953 to https://dotwork.qodeinteractive.com/portfolio-item/behind-the-ink/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2050
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2050 to https://dotwork.qodeinteractive.com/magical-suggestions/
+15:53:11	Error: 	"Not Found" (404) at link https://dotwork.qodeinteractive.com/wp-json/wp/v2/users/1 (from https://dotwork.qodeinteractive.com/author/admin/)
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2061
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2061 to https://dotwork.qodeinteractive.com/freshly-inked-skin-care/
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2055
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2055 to https://dotwork.qodeinteractive.com/pick-a-tattoo-for-yourself/
+15:53:11	Error: 	"Not Found" (404) at link https://dotwork.qodeinteractive.com/wp-json/wp/v2/users/2 (from https://dotwork.qodeinteractive.com/author/petra/)
+15:53:11	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2053
+15:53:11	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2053 to https://dotwork.qodeinteractive.com/retro-tattoos/
+15:53:12	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=277
+15:53:12	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=277 to https://dotwork.qodeinteractive.com/product/badge/
+15:53:12	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?remove_item=eda80a3d5b344bc40f3bc04f65b7a357&_wpnonce=a17e0802b7
+15:53:12	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?remove_item=eda80a3d5b344bc40f3bc04f65b7a357&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product-list/?removed_item=1
+15:53:12	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=267
+15:53:12	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=267 to https://dotwork.qodeinteractive.com/product/bag/
+15:53:12	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=259
+15:53:12	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=259 to https://dotwork.qodeinteractive.com/product/cap-tattoo/
+15:53:13	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?remove_item=b628386c9b92481fab68fbf284bd6a64&_wpnonce=a17e0802b7
+15:53:13	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?remove_item=b628386c9b92481fab68fbf284bd6a64&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product-list/?removed_item=1
+15:53:13	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2714
+15:53:13	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2714 to https://dotwork.qodeinteractive.com/product/cap-the-crown/
+15:53:13	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?remove_item=33267e5dc58fad346e92471c43fcccdc&_wpnonce=a17e0802b7
+15:53:13	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?remove_item=33267e5dc58fad346e92471c43fcccdc&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product-list/?removed_item=1
+15:53:13	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2722
+15:53:13	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2722 to https://dotwork.qodeinteractive.com/product/coffee-mug-heart/
+15:53:13	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=262
+15:53:13	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=262 to https://dotwork.qodeinteractive.com/product/coffee-mug-skull/
+15:53:14	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?remove_item=08f38e0434442128fab5ead6217ca759&_wpnonce=a17e0802b7
+15:53:14	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?remove_item=08f38e0434442128fab5ead6217ca759&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product-list/?removed_item=1
+15:53:14	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2731
+15:53:14	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2731 to https://dotwork.qodeinteractive.com/product/phone-mask-black/
+15:53:14	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?remove_item=4c5bde74a8f110656874902f07378009&_wpnonce=a17e0802b7
+15:53:14	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?remove_item=4c5bde74a8f110656874902f07378009&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product-list/?removed_item=1
+15:53:14	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?remove_item=46ba9f2a6976570b0353203ec4474217&_wpnonce=a17e0802b7
+15:53:14	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?remove_item=46ba9f2a6976570b0353203ec4474217&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product-list/?removed_item=1
+15:53:14	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=284
+15:53:14	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=284 to https://dotwork.qodeinteractive.com/product/phone-mask-white/
+15:53:15	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/product-list/page/1/
+15:53:15	Warning: 	File has moved from https://dotwork.qodeinteractive.com/product-list/page/1/ to https://dotwork.qodeinteractive.com/product-list/
+15:53:18	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?remove_item=cfa0860e83a4c3a763a7e62d825349f7&_wpnonce=a17e0802b7
+15:53:18	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?remove_item=cfa0860e83a4c3a763a7e62d825349f7&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product/phone-mask-steampunk/?removed_item=1
+15:53:18	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?remove_item=6a9aeddfc689c1d0e3b9ccc3ab651bc5&_wpnonce=a17e0802b7
+15:53:18	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?remove_item=6a9aeddfc689c1d0e3b9ccc3ab651bc5&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product/phone-mask-steampunk/?removed_item=1
+15:53:18	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=282
+15:53:18	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=282 to https://dotwork.qodeinteractive.com/product/t-shirt-black/
+15:53:19	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=264
+15:53:19	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=264 to https://dotwork.qodeinteractive.com/product/t-shirt/
+15:53:19	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?remove_item=d6baf65e0b240ce177cf70da146c8dc8&_wpnonce=a17e0802b7
+15:53:19	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?remove_item=d6baf65e0b240ce177cf70da146c8dc8&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product-list/three-columns/?removed_item=1
+15:53:19	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=269
+15:53:19	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=269 to https://dotwork.qodeinteractive.com/product/tattoo-machine-sx20/
+15:53:20	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?remove_item=06138bc5af6023646ede0e1f7c1eac75&_wpnonce=a17e0802b7
+15:53:20	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?remove_item=06138bc5af6023646ede0e1f7c1eac75&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product-list/three-columns/?removed_item=1
+15:53:20	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=274
+15:53:20	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=274 to https://dotwork.qodeinteractive.com/product/tattoo-machine-svr3/
+15:53:20	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?remove_item=d947bf06a885db0d477d707121934ff8&_wpnonce=a17e0802b7
+15:53:20	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?remove_item=d947bf06a885db0d477d707121934ff8&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product-list/three-columns/?removed_item=1
+15:53:20	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?remove_item=20f07591c6fcb220ffe637cda29bb3f6&_wpnonce=a17e0802b7
+15:53:20	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?remove_item=20f07591c6fcb220ffe637cda29bb3f6&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product-list/three-columns/?removed_item=1
+15:53:20	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=280
+15:53:20	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=280 to https://dotwork.qodeinteractive.com/product/t-shirt-white/
+15:53:20	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?remove_item=92c8c96e4c37100777c7190b76d28233&_wpnonce=a17e0802b7
+15:53:20	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?remove_item=92c8c96e4c37100777c7190b76d28233&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product-list/three-columns/?removed_item=1
+15:53:20	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=285
+15:53:20	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=285 to https://dotwork.qodeinteractive.com/product/tattoo-machine-nb2x/
+15:53:21	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?remove_item=0e01938fc48a2cfb5f2217fbfb00722d&_wpnonce=a17e0802b7
+15:53:21	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?remove_item=0e01938fc48a2cfb5f2217fbfb00722d&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product-list/four-columns/?removed_item=1
+15:53:21	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=3057
+15:53:21	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=3057 to https://dotwork.qodeinteractive.com/portfolio-item/the-power-of-tattoos/
+15:53:28	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2059
+15:53:28	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2059 to https://dotwork.qodeinteractive.com/tattoo-meanings/
+15:53:28	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=2057
+15:53:28	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=2057 to https://dotwork.qodeinteractive.com/aftercare/
+15:53:29	Warning: 	Moved Permanently for dotwork.qodeinteractive.com/robots.txt
+15:53:29	Warning: 	Redirected link is identical because of 'URL Hack' option: dotwork.qodeinteractive.com/robots.txt and https://dotwork.qodeinteractive.com/robots.txt
+15:53:29	Warning: 	Warning moved treated for dotwork.qodeinteractive.com/robots.txt (real one is https://dotwork.qodeinteractive.com/robots.txt)
+15:53:29	Warning: 	Moved Permanently for dotwork.qodeinteractive.com/product-list/?removed_item=1
+15:53:29	Warning: 	Redirected link is identical because of 'URL Hack' option: dotwork.qodeinteractive.com/product-list/?removed_item=1 and https://dotwork.qodeinteractive.com/product-list/?removed_item=1
+15:53:29	Warning: 	File has moved from dotwork.qodeinteractive.com/product-list/?removed_item=1 to https://dotwork.qodeinteractive.com/product-list/?removed_item=1
+15:53:29	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?undo_item=eda80a3d5b344bc40f3bc04f65b7a357&_wpnonce=a17e0802b7
+15:53:29	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?undo_item=eda80a3d5b344bc40f3bc04f65b7a357&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product/bag/?add-to-cart=280
+15:53:30	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?undo_item=b628386c9b92481fab68fbf284bd6a64&_wpnonce=a17e0802b7
+15:53:30	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?undo_item=b628386c9b92481fab68fbf284bd6a64&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product/cap-the-crown/?add-to-cart=284
+15:53:30	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?undo_item=33267e5dc58fad346e92471c43fcccdc&_wpnonce=a17e0802b7
+15:53:30	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?undo_item=33267e5dc58fad346e92471c43fcccdc&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product/coffee-mug-heart/?add-to-cart=2731
+15:53:31	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?undo_item=08f38e0434442128fab5ead6217ca759&_wpnonce=a17e0802b7
+15:53:31	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?undo_item=08f38e0434442128fab5ead6217ca759&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product/phone-mask-black/?add-to-cart=2722
+15:53:31	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?undo_item=4c5bde74a8f110656874902f07378009&_wpnonce=a17e0802b7
+15:53:31	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?undo_item=4c5bde74a8f110656874902f07378009&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product/phone-mask-white/?add-to-cart=285
+15:53:31	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?undo_item=46ba9f2a6976570b0353203ec4474217&_wpnonce=a17e0802b7
+15:53:31	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?undo_item=46ba9f2a6976570b0353203ec4474217&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product/phone-mask-white/?add-to-cart=285
+15:53:32	Warning: 	Moved Permanently for dotwork.qodeinteractive.com/product/phone-mask-steampunk/?removed_item=1
+15:53:32	Warning: 	Redirected link is identical because of 'URL Hack' option: dotwork.qodeinteractive.com/product/phone-mask-steampunk/?removed_item=1 and https://dotwork.qodeinteractive.com/product/phone-mask-steampunk/?removed_item=1
+15:53:32	Warning: 	File has moved from dotwork.qodeinteractive.com/product/phone-mask-steampunk/?removed_item=1 to https://dotwork.qodeinteractive.com/product/phone-mask-steampunk/?removed_item=1
+15:53:32	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?undo_item=cfa0860e83a4c3a763a7e62d825349f7&_wpnonce=a17e0802b7
+15:53:32	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?undo_item=cfa0860e83a4c3a763a7e62d825349f7&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product/phone-mask-steampunk/?add-to-cart=277
+15:53:32	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?undo_item=6a9aeddfc689c1d0e3b9ccc3ab651bc5&_wpnonce=a17e0802b7
+15:53:32	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?undo_item=6a9aeddfc689c1d0e3b9ccc3ab651bc5&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product/t-shirt-black/?add-to-cart=280
+15:53:33	Warning: 	Moved Permanently for dotwork.qodeinteractive.com/product-list/three-columns/?removed_item=1
+15:53:33	Warning: 	Redirected link is identical because of 'URL Hack' option: dotwork.qodeinteractive.com/product-list/three-columns/?removed_item=1 and https://dotwork.qodeinteractive.com/product-list/three-columns/?removed_item=1
+15:53:33	Warning: 	File has moved from dotwork.qodeinteractive.com/product-list/three-columns/?removed_item=1 to https://dotwork.qodeinteractive.com/product-list/three-columns/?removed_item=1
+15:53:33	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?undo_item=d6baf65e0b240ce177cf70da146c8dc8&_wpnonce=a17e0802b7
+15:53:33	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?undo_item=d6baf65e0b240ce177cf70da146c8dc8&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product/tattoo-machine-sx20/?add-to-cart=284
+15:53:33	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?undo_item=06138bc5af6023646ede0e1f7c1eac75&_wpnonce=a17e0802b7
+15:53:33	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?undo_item=06138bc5af6023646ede0e1f7c1eac75&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product/tattoo-machine-svr3/?add-to-cart=284
+15:53:33	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?undo_item=d947bf06a885db0d477d707121934ff8&_wpnonce=a17e0802b7
+15:53:33	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?undo_item=d947bf06a885db0d477d707121934ff8&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product/t-shirt-white/?add-to-cart=182
+15:53:33	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?undo_item=20f07591c6fcb220ffe637cda29bb3f6&_wpnonce=a17e0802b7
+15:53:33	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?undo_item=20f07591c6fcb220ffe637cda29bb3f6&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product/t-shirt-white/?add-to-cart=182
+15:53:34	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?undo_item=92c8c96e4c37100777c7190b76d28233&_wpnonce=a17e0802b7
+15:53:34	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?undo_item=92c8c96e4c37100777c7190b76d28233&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product/tattoo-machine-nb2x/?add-to-cart=269
+15:53:34	Warning: 	Moved Permanently for dotwork.qodeinteractive.com/product-list/four-columns/?removed_item=1
+15:53:34	Warning: 	Redirected link is identical because of 'URL Hack' option: dotwork.qodeinteractive.com/product-list/four-columns/?removed_item=1 and https://dotwork.qodeinteractive.com/product-list/four-columns/?removed_item=1
+15:53:34	Warning: 	File has moved from dotwork.qodeinteractive.com/product-list/four-columns/?removed_item=1 to https://dotwork.qodeinteractive.com/product-list/four-columns/?removed_item=1
+15:53:34	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=3060
+15:53:34	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=3060 to https://dotwork.qodeinteractive.com/portfolio-item/short-term-ink/
+15:53:40	Warning: 	Found for https://dotwork.qodeinteractive.com/cart/?undo_item=0e01938fc48a2cfb5f2217fbfb00722d&_wpnonce=a17e0802b7
+15:53:40	Warning: 	File has moved from https://dotwork.qodeinteractive.com/cart/?undo_item=0e01938fc48a2cfb5f2217fbfb00722d&_wpnonce=a17e0802b7 to http://dotwork.qodeinteractive.com/product/badge/?add-to-cart=2731
+15:53:41	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=3063
+15:53:41	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=3063 to https://dotwork.qodeinteractive.com/portfolio-item/hidden-meanings/
+15:53:52	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=3066
+15:53:52	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=3066 to https://dotwork.qodeinteractive.com/portfolio-item/urban-tattoos/
+15:54:02	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=3071
+15:54:02	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=3071 to https://dotwork.qodeinteractive.com/portfolio-item/our-bodies-our-ink/
+15:54:13	Warning: 	Moved Permanently for https://dotwork.qodeinteractive.com/?p=3078
+15:54:13	Warning: 	File has moved from https://dotwork.qodeinteractive.com/?p=3078 to https://dotwork.qodeinteractive.com/portfolio-item/new-tattoo-trends/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 24 seconds : 1613 links scanned, 1446 files written (97430971 bytes overall), 26 files updated [733869 bytes received at 8736 bytes/sec], 887836 bytes transferred using HTTP compression in 16 files, ratio 15%, 6.4 requests per connection
+(8 errors, 325 warnings, 0 messages)
